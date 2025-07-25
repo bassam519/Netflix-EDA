@@ -31,11 +31,6 @@ This project explores the Netflix dataset using Python libraries such as **Panda
 7. Recent 5-year addition trend (Pie chart) 📊
 8. Top 5 content ratings using NumPy 🧮
 
----
-
-## 📊 Example Visuals
-
-*(Optional: insert example screenshots here)*
 
 ---
 
