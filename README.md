@@ -38,7 +38,7 @@ This project explores the Netflix dataset using Python libraries such as **Panda
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/netflix-data-analysis.git
+git clone https://github.com/bassam519/netflix-data-analysis.git
 
 # Open in your IDE or Jupyter
 python Netflix_Analysis.py
